@@ -60,7 +60,7 @@ form.addEventListener('submit', function (event) {
     // Basic email validation
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!emailRegex.test(enteredEmail)) {
-        alert('Please enter a valid email address.');
+        dialog('Please enter a valid email address.');
         return;
     }
 
