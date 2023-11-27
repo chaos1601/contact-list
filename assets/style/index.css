@@ -62,3 +62,8 @@ button:hover {
     position: fixed;
     inset: auto 30px 30px auto;
 }
+
+.contactNumber p {
+    text-align: left;
+    padding: 10px 0 0 5px;
+}
