@@ -58,12 +58,12 @@ button:hover {
     background-color: var(--app-green);
     color: var(--app-white);
     height: 40px;
-    width: 200px;
+    width: 140px;
     position: fixed;
     inset: auto 30px 30px auto;
 }
 
 .contactNumber p {
     text-align: left;
-    padding: 10px 0 0 5px;
+    padding: 10px 0 0 10px;
 }
